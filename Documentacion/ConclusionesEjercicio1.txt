@@ -1,0 +1,7 @@
+Las conclusiones son las siguientes:
+
+- Que es una buena combinación utilizar el lenguaje Gherkin, cucumber y Serenity BDD.
+- Después de la ejecución del correspondiente escenario, podemos visualizar si todo está OK o han fallado. Para nuestro caso, todos han salido   Ok. 
+- En la pantalla se puede visualizar por ejemplo el número de escenarios ejecutados, el número de test ejecutados, la cantdidad que se encuentran OK y fallidos.
+- Se puede obtener reportes por cada escenario ejecutado, los cuales se enexan imagenes en el documento word de "DesarrolloDesafio" y se adjuntan en la carpeta "Reportes".
+
