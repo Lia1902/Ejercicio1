@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"CP01 - Validacion de autenticacion de usuario y clave","Cp01-01","SUCCESS","2026-02-16T12:01:55.305-05:00[America/Bogota]","0.0","9.95"
+"CP02 - Agregar productos al carrito de compras","CP02-1 Se agrega productos al carrito exitosamente","SUCCESS","2026-02-16T12:02:06.312-05:00[America/Bogota]","0.0","7.77"
+"CP03 - Ingreso da datos en formulario de compra","CP03 - 01 Ingreso de datos exitoso en el formulario","SUCCESS","2026-02-16T12:02:14.991-05:00[America/Bogota]","0.0","10.13"
+"CP04 - Validar la finalizacion de la compra","CP04 - 01 Ingreso de datos exitoso en el formulario","SUCCESS","2026-02-16T12:02:25.915-05:00[America/Bogota]","0.0","8.66"

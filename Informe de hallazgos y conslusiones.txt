@@ -1,0 +1,43 @@
+INFORME DE HALLAZGOS Y CONCLUSIONES
+Proyecto: Automatización de prueba funcional para saucedemo
+Versión evaluada: v1.0.0
+Ambiente: QA
+Fecha de ejecución: 16/02/2026
+Framework: Serenity BDD + Cucumber
+Total de escenarios ejecutados: 4
+Resultado: 4 Passed 
+
+------------------------------------------------------------
+1. OBJETIVO
+------------------------------------------------------------
+Validar la estabilidad, cobertura y correcta implementación
+de la automatización funcional.
+
+------------------------------------------------------------
+2. ALCANCE
+------------------------------------------------------------
+- Login de usuario
+- Agregado de productos al carrito
+- Visualizar el carrito
+- Registro de formulario de compra
+- Confirmación de pedido
+
+------------------------------------------------------------
+3. HALLAZGOS
+------------------------------------------------------------
+
+Resultado: Sin hallazgos.
+
+Durante la ejecución de los casos de prueba no se detectaron defectos funcionales.
+Los escenarios definidos cumplieron con el comportamiento esperado.
+
+------------------------------------------------------------
+4. CONCLUSIONES
+------------------------------------------------------------
+
+- La automatización cubre adecuadamente los flujos principales del negocio.
+- El framework está correctamente configurado y genera reportes trazables.
+
+
+
+
